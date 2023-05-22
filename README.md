@@ -4,7 +4,10 @@
 
 
 
-https://github.com/kylecoding1/nosql/assets/128002901/d611f2a5-2359-43f9-a8f2-3712917e4bfd
+https://github.com/kylecoding1/nosql/assets/128002901/0b02ffa2-bcc7-4665-b8eb-3176a5a47efa
+
+
+
 
 
 
