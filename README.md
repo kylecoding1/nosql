@@ -3,7 +3,10 @@
 ## Walkthrough Video
 
 
-https://github.com/kylecoding1/nosql/assets/128002901/64ad6996-b1e7-4bee-bc06-9f7f98bdc75a
+
+https://github.com/kylecoding1/nosql/assets/128002901/d611f2a5-2359-43f9-a8f2-3712917e4bfd
+
+
 
 
 
