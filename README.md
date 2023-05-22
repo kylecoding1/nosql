@@ -1,7 +1,7 @@
 # Social Network API
 
 ## Walkthrough Video
-https://clipchamp.com/watch/BS4D5SqcSuU
+[https://clipchamp.com/watch/BS4D5SqcSuU](https://clipchamp.com/watch/BS4D5SqcSuU?utm_source=share&utm_medium=social&utm_campaign=watch)
 
 ## Description
 
