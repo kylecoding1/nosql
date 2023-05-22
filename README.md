@@ -30,6 +30,9 @@ This will install Express.js, Mongoose, and other necessary npm packages.
 1. Start the server using the command line by running: `npm start`.
 2. Use a tool like Insomnia or Postman to test the API routes.
 
+## Project links
+Github repository link : https://github.com/kylecoding1/nosql Deployed Application link: https://kylecoding1.github.io/nosql/
+
 ## License
 
 This project is licensed under the MIT license.
