@@ -4,7 +4,6 @@
 
 
 
-https://github.com/kylecoding1/nosql/assets/128002901/0b02ffa2-bcc7-4665-b8eb-3176a5a47efa
 
 
 
