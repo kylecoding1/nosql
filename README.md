@@ -1,16 +1,7 @@
 # Social Network API
 
 ## Walkthrough Video
-
-
-
-
-
-
-
-
-
-
+https://clipchamp.com/watch/BS4D5SqcSuU
 
 ## Description
 
