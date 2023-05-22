@@ -1,7 +1,11 @@
 # Social Network API
 
 ## Walkthrough Video
-in the comments
+
+
+https://github.com/kylecoding1/nosql/assets/128002901/64ad6996-b1e7-4bee-bc06-9f7f98bdc75a
+
+
 
 ## Description
 
